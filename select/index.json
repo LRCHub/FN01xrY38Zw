@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "By Your Side",
+  "base_artist": "Jonas Blue",
+  "createdAt": "2025-12-01T11:50:19.283672Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Better When I'm By Your Side",
+      "artist": "Yumi Zouma",
+      "has_synced": true,
+      "path": "select/01_Better_When_I'm_By_Your_Side_Yumi_Zouma.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Keep Your Rifle by Your Side (Reinterpretation)",
+      "artist": "Hammock",
+      "has_synced": false,
+      "path": "select/02_Keep_Your_Rifle_by_Your_Side_(Reinterpretation)_Hammock.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "By Your Side",
+      "artist": "Beachwood Sparks",
+      "has_synced": true,
+      "path": "select/03_By_Your_Side_Beachwood_Sparks.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "By Your Side",
+      "artist": "Will Saul",
+      "has_synced": true,
+      "path": "select/04_By_Your_Side_Will_Saul.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "By Your Side Part1 (feat. Pacific!)",
+      "artist": "Breakbot",
+      "has_synced": true,
+      "path": "select/05_By_Your_Side_Part1_(feat._Pacific!)_Breakbot.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "By Your Side Part 1 (featuring Pacific!)",
+      "artist": "Breakbot",
+      "has_synced": true,
+      "path": "select/06_By_Your_Side_Part_1_(featuring_Pacific!)_Breakbot.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "By Your Side Part2 (feat. Pacific!)",
+      "artist": "Breakbot",
+      "has_synced": false,
+      "path": "select/07_By_Your_Side_Part2_(feat._Pacific!)_Breakbot.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "By Your Side",
+      "artist": "CocoRosie",
+      "has_synced": true,
+      "path": "select/08_By_Your_Side_CocoRosie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "By Your Side",
+      "artist": "Sade",
+      "has_synced": true,
+      "path": "select/09_By_Your_Side_Sade.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Here By Your Side",
+      "artist": "Alphaville",
+      "has_synced": false,
+      "path": "select/10_Here_By_Your_Side_Alphaville.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Right By Your Side",
+      "artist": "Eurythmics",
+      "has_synced": true,
+      "path": "select/11_Right_By_Your_Side_Eurythmics.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Right By Your Side (7'' Mix, 1983)",
+      "artist": "Eurythmics",
+      "has_synced": true,
+      "path": "select/12_Right_By_Your_Side_(7''_Mix,_1983)_Eurythmics.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fight by Your Side",
+      "artist": "Doro",
+      "has_synced": false,
+      "path": "select/13_Fight_by_Your_Side_Doro.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "By Your Side",
+      "artist": "超新星",
+      "has_synced": false,
+      "path": "select/pl_01_By_Your_Side_超新星.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "By Your Side",
+      "artist": "超新星",
+      "has_synced": false,
+      "path": "select/pl_02_By_Your_Side_超新星.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "By Your Side",
+      "artist": "超新星",
+      "has_synced": false,
+      "path": "select/pl_03_By_Your_Side_超新星.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "by your side",
+      "artist": "超新星",
+      "has_synced": false,
+      "path": "select/pl_04_by_your_side_超新星.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "by your side",
+      "artist": "超新星",
+      "has_synced": false,
+      "path": "select/pl_05_by_your_side_超新星.txt"
+    }
+  ]
+}
